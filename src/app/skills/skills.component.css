@@ -1,0 +1,21 @@
+.focus{
+ text-decoration: underline;
+}
+.container{
+    color: lightgray;
+}
+button{
+    width: 80px;
+    height: 40px;
+    border-radius: 0%;
+    margin-bottom: 10px;
+}
+progress{
+    height:40px;
+    border-radius: 0%;
+    border: 0px;
+    margin-bottom: 10px;
+}
+h5 ,h4 {
+    text-align: center;
+}

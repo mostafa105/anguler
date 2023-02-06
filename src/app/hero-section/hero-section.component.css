@@ -1,0 +1,15 @@
+.portfolio{
+    background-image: url('../../assets/image/portfolio.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 30rem;
+    color: white;
+}
+
+.portfolio h3{
+    color: lightgray;
+}
+
+.portfolio span{
+    color: yellow;
+}
